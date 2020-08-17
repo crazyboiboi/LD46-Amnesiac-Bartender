@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e97a6b35f83f5b4f9df67a92765e3d5, type: 3}
+  m_Name: Whiskey Sour
+  m_EditorClassIdentifier: 
+  name: Whiskey Sour
+  combination: 1245567
+  customerRequest: 'Maybe something refreshingly cold, sweet with a touch of sourness '
+  description: Refreshingly cold, sweet with a touch of sourness
+  artwork: {fileID: 21300000, guid: 9322dc38e475e9b4aa215d6883a41ecf, type: 3}

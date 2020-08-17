@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e97a6b35f83f5b4f9df67a92765e3d5, type: 3}
+  m_Name: Mint Julep
+  m_EditorClassIdentifier: 
+  name: Mint Julep
+  combination: 144477
+  customerRequest: I want a minty, sweet and spicy drink.
+  description: Minty, sweet and spicy
+  artwork: {fileID: 21300000, guid: 2fd1a0a902681af4683215719bdd5649, type: 3}

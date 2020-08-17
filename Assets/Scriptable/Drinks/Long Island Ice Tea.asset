@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e97a6b35f83f5b4f9df67a92765e3d5, type: 3}
+  m_Name: Long Island Ice Tea
+  m_EditorClassIdentifier: 
+  name: Long Island Ice Tea
+  combination: 1244567
+  customerRequest: A mixture of flavour, but slightly sweeter and refreshing
+  description: Cold, bitter and sweet
+  artwork: {fileID: 21300000, guid: 71e21a3f1c9d2df4fb11790ae9c6a834, type: 3}
